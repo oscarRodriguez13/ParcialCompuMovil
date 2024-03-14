@@ -1,0 +1,29 @@
+{
+  "jugadores": [
+    {
+      "nombre": "Thomas Snyder",
+      "anio_nacimiento": 1978,
+      "descripcion_corta": "Conocido como 'Dr. Sudoku', ha ganado múltiples campeonatos mundiales de Sudoku."
+    },
+    {
+      "nombre": "Wei-Hwa Huang",
+      "anio_nacimiento": 1973,
+      "descripcion_corta": "Campeón del mundo de Sudoku en 2007, también es conocido por su habilidad en otros juegos de mesa."
+    },
+    {
+      "nombre": "Tiit Vunk",
+      "anio_nacimiento": 1983,
+      "descripcion_corta": "Ganador del Campeonato Mundial de Sudoku en 2010 y 2015, es uno de los mejores jugadores de Estonia."
+    },
+    {
+      "nombre": "Hideaki Jo",
+      "anio_nacimiento": 1977,
+      "descripcion_corta": "Ganador del Campeonato Mundial de Sudoku en 2006 y 2007, es uno de los jugadores más destacados de Japón."
+    },
+    {
+      "nombre": "Ulrich Voigt",
+      "anio_nacimiento": 1973,
+      "descripcion_corta": "Destacado jugador alemán, ha ganado múltiples campeonatos de Sudoku y es conocido por su rapidez."
+    }
+  ]
+}
