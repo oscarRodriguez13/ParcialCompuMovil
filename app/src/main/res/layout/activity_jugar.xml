@@ -122,13 +122,23 @@
 
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/validacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="19dp"/>
+
     <Button
         android:id="@+id/jugarOtraVez"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Jugar de nuevo"
+        android:text="VALIDAR"
         android:layout_gravity="bottom"
-        android:layout_marginTop="60dp"/>
+        android:layout_marginTop="80dp"/>
+
 
 
 
